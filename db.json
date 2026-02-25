@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "First Blog",
+      "description": "This is first blog",
+      "date": "2026-02-25",
+      "image": "https://via.placeholder.com/300",
+      "category": "Tech"
+    },
+    {
+      "id": "98cb",
+      "title": "vv",
+      "description": "ddv",
+      "date": "2026-02-06",
+      "image": "https://t3.ftcdn.net/jpg/08/72/76/76/360_F_872767655_NUNhSjeA6NGPBbusIQSx3Ke6j3NH6ENC.jpg",
+      "category": "cvdvvv"
+    },
+    {
+      "id": "c7f1",
+      "title": "army",
+      "description": "The Indian Army (IA) (ISO: Bhāratīya Sēnā) is the land-based branch and largest component of the Indian Armed Forces. The President of India is the Supreme Commander of the Indian Army,[3] and its professional head is the Chief of the Army Staff (COAS). The Indian Army was established on 1 April 1895 alongside the long established presidency armies of the East India Company, which too were absorbed into it in 1903. Some princely states maintained their own armies which formed the Imperial Service Troops which, along with the Indian Army formed the land component of the Armed Forces of the Crown of India, responsible for the defence of the Indian Empire.[4][5] The Imperial Service Troops were merged into the Indian Army after independence. The units and regiments of the Indian Army have diverse histories and have participated in several battles and campaigns around the world, earning many battle and theatre honours before and after Independence.[6]",
+      "date": "2026-02-07",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1SrOdEN-xks0jy1huFdX_4ywQ053vZCcSmA&s",
+      "category": "indian"
+    }
+  ]
+}

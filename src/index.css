@@ -1,13 +1,41 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+/* Make all images same size */
+
+
+/* Fixed image container */
+.img-container {
+  height: 250px;        /* 👈 Same height for all */
+  width: 100%;
+  overflow: hidden;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+/* Make image fill container properly */
+.uniform-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;    /* 👈 Crop properly without distortion */
+}
+
+/* Card hover effect */
+.blog-card {
+  border-radius: 15px;
+  transition: all 0.3s ease;
+}
+
+.blog-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 15px 25px rgba(0,0,0,0.2);
+}
+
+/* Image zoom on hover */
+.blog-card:hover .blog-img {
+  transform: scale(1.1);
+}
+
+/* Button smooth effect */
+.btn {
+  transition: all 0.3s ease;
+}
+
+.btn:hover {
+  transform: scale(1.05);
 }
