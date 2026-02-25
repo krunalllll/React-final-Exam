@@ -1,28 +1,20 @@
 {
   "posts": [
     {
-      "id": "1",
-      "title": "First Blog",
-      "description": "This is first blog",
-      "date": "2026-02-25",
-      "image": "https://via.placeholder.com/300",
-      "category": "Tech"
-    },
-    {
-      "id": "98cb",
-      "title": "vv",
-      "description": "ddv",
+      "id": "a6a4",
+      "title": "animance in the shadow",
+      "description": "The Eminence in Shadow (Japanese: 陰の実力者になりたくて!, Hepburn: Kage no Jitsuryokusha ni Naritakute!) is a Japanese light novel series written by Daisuke Aizawa and illustrated by Tōzai. It began serialization online in May 2018 on the user-generated novel publishing website Shōsetsuka ni Narō. It was later acquired by Enterbrain, who have published the series since November 2018.",
       "date": "2026-02-06",
-      "image": "https://t3.ftcdn.net/jpg/08/72/76/76/360_F_872767655_NUNhSjeA6NGPBbusIQSx3Ke6j3NH6ENC.jpg",
-      "category": "cvdvvv"
+      "image": "https://m.media-amazon.com/images/M/MV5BMDFmMWJlMWYtMDFkNi00OWViLTkzOGEtNDI0YWNmM2M5MzI5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "category": "anime"
     },
     {
-      "id": "c7f1",
-      "title": "army",
-      "description": "The Indian Army (IA) (ISO: Bhāratīya Sēnā) is the land-based branch and largest component of the Indian Armed Forces. The President of India is the Supreme Commander of the Indian Army,[3] and its professional head is the Chief of the Army Staff (COAS). The Indian Army was established on 1 April 1895 alongside the long established presidency armies of the East India Company, which too were absorbed into it in 1903. Some princely states maintained their own armies which formed the Imperial Service Troops which, along with the Indian Army formed the land component of the Armed Forces of the Crown of India, responsible for the defence of the Indian Empire.[4][5] The Imperial Service Troops were merged into the Indian Army after independence. The units and regiments of the Indian Army have diverse histories and have participated in several battles and campaigns around the world, earning many battle and theatre honours before and after Independence.[6]",
-      "date": "2026-02-07",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1SrOdEN-xks0jy1huFdX_4ywQ053vZCcSmA&s",
-      "category": "indian"
+      "id": "4bdf",
+      "title": "the daily life of the immortal king",
+      "description": "The Daily Life of the Immortal King (Chinese: 仙王的日常生活, pinyin: Xiān Wáng de Rìcháng Shēnghuó) is a donghua based on the manhua, which itself is based on the Chinese novel by Kuxuan with the same name. This novel is published by Qidian[1] in Chinese and Webnovel in English.[2] It began publishing in 2017. As of 8 May 2025, the novel has 2254 chapters, 2202 chapters of which have been translated into English.\n\nA donghua web series adaptation premiered on its video sharing service Bilibili on 18 January 2020, with its most recent season premiering on 14 December 2025.[3]",
+      "date": "2026-02-19",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTU2NGRmNTQtYTcyZi00OTNlLTgxMzEtZjRiZjUyNGRhYTM5XkEyXkFqcGc@._V1_.jpg",
+      "category": "anime"
     }
   ]
 }
